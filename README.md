@@ -29,4 +29,4 @@ pip3 install pyqt5
 
 
 *************************************************************************************
-**[Loook at my other projects :eyes:](github.com/codejack-CR)**<br>
+**[Loook at my other projects :eyes:](https://github.com/codejack-CR)**<br>
