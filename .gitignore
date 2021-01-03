@@ -1,4 +1,13 @@
+# IDE files
 venv/
 .idea/
+
+# PyInstaller Files
+build/
+dist/run/
+*.spec
+
+# Caches
+__pycache__/
 calc/__pycache__/
 
